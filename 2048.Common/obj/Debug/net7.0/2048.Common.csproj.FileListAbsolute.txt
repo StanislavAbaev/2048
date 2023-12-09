@@ -1,0 +1,12 @@
+D:\Project\OnlineCourse12Stream_Kurators\2048WinformsApp\2048.Common\bin\Debug\net7.0\2048.Common.deps.json
+D:\Project\OnlineCourse12Stream_Kurators\2048WinformsApp\2048.Common\bin\Debug\net7.0\2048.Common.dll
+D:\Project\OnlineCourse12Stream_Kurators\2048WinformsApp\2048.Common\bin\Debug\net7.0\2048.Common.pdb
+D:\Project\OnlineCourse12Stream_Kurators\2048WinformsApp\2048.Common\obj\Debug\net7.0\2048.Common.csproj.AssemblyReference.cache
+D:\Project\OnlineCourse12Stream_Kurators\2048WinformsApp\2048.Common\obj\Debug\net7.0\2048.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\OnlineCourse12Stream_Kurators\2048WinformsApp\2048.Common\obj\Debug\net7.0\2048.Common.AssemblyInfoInputs.cache
+D:\Project\OnlineCourse12Stream_Kurators\2048WinformsApp\2048.Common\obj\Debug\net7.0\2048.Common.AssemblyInfo.cs
+D:\Project\OnlineCourse12Stream_Kurators\2048WinformsApp\2048.Common\obj\Debug\net7.0\2048.Common.csproj.CoreCompileInputs.cache
+D:\Project\OnlineCourse12Stream_Kurators\2048WinformsApp\2048.Common\obj\Debug\net7.0\2048.Common.dll
+D:\Project\OnlineCourse12Stream_Kurators\2048WinformsApp\2048.Common\obj\Debug\net7.0\refint\2048.Common.dll
+D:\Project\OnlineCourse12Stream_Kurators\2048WinformsApp\2048.Common\obj\Debug\net7.0\2048.Common.pdb
+D:\Project\OnlineCourse12Stream_Kurators\2048WinformsApp\2048.Common\obj\Debug\net7.0\ref\2048.Common.dll
